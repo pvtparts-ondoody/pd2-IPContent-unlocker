@@ -1,7 +1,7 @@
 Potentially causes you to be marked as a cheater. Use at your own risk.
 
-Unlocks as much removed content as I could find in a few hours of looking; pretty sure it has the most important ones.
-
+Unlocks as much removed content as I could find in a few hours of looking; pretty sure it has the most important ones. Doesn't unlock anything normally obtainable/purchasable.
+My thanks to Tanjil/tskxz who I cribbed from to make this variation.
 
 Technical trivia:
 Everything referred to as a bundle or pack should also include all related weapons, melees, perk decks, masks, etc... if you find otherwise, let me know.
