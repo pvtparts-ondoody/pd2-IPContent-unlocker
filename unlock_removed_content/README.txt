@@ -1,3 +1,9 @@
+Potentially causes you to be marked as a cheater. Use at your own risk.
+
+Unlocks as much removed content as I could find in a few hours of looking; pretty sure it has the most important ones.
+
+
+Technical trivia:
 Everything referred to as a bundle or pack should also include all related weapons, melees, perk decks, masks, etc... if you find otherwise, let me know.
 A correlation of which DLC listings in the .lua file unlock which things:
 
