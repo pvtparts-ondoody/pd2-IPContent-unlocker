@@ -1,0 +1,13 @@
+{
+    "name": "Removed IP content",
+    "description": "Unlocks all the major (and some of the minor) bits of removed IP and general removed/unavailable content I could find; full list of what in the mod's folder's README.txt. Shoutout to tsk.xz on GitHub who I stole this framework from to use as a base.",
+    "author": "pvt. parts",
+    "version": "v1.0.1",
+    
+    "hooks": [
+    {
+        "hook_id": "lib/managers/dlcmanager",
+        "script_path": "removed_unlocker.lua"
+    }
+    ]
+}
